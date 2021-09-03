@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pcputta.github.io/profile/sitemap.xml
